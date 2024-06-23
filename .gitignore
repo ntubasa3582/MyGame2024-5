@@ -70,3 +70,17 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+Assets/Plugins/
+Assets/Plugins.meta
+Assets/Resources.meta
+Assets/Resources/DOTweenSettings.asset
+Assets/Resources/DOTweenSettings.asset.meta
+Assets/TextMesh Pro/
+Assets/Sound/BGM/LoFi_01.mp3
+Assets/Sound/BGM/LoFi_01.mp3.meta
+Assets/Font/KaiseiHarunoUmi-Bold SDF.asset
+Assets/Font/KaiseiHarunoUmi-Bold SDF.asset.meta
+Assets/Font/KaiseiHarunoUmi-Bold.ttf
+Assets/Font/KaiseiHarunoUmi-Bold.ttf.meta
+Assets/Sound/SE/決定10.mp3
+Assets/Sound/SE/決定10.mp3.meta
